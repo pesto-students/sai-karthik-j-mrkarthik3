@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    margin: 20px;
+}
+
+section#top {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+figure img {
+    width: 100%;
+}
+
+#main-section {
+    display: flex;
+    margin: 40px;
+
+}
+
+#main-section section {
+    width: 50%;
+    text-align: left;
+}
+
+header h3 {
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 0;
+    padding-left: 0;
+}
+
