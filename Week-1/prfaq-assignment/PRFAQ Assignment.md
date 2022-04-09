@@ -26,26 +26,34 @@ We also offer white-label service to interested clients. We encourage educationa
 **FUNCTIONAL FAQ:**
 
 1.	Is Smarto free to use ?
-Smarto is offering a full-fledged trial of its system to all educational institutions who register before April 1st 2022. The duration of this free trial is 30 days. 
-After 30 days, you will be reminded of the estimated costs per session based on your requirements and usage patterns.
+
+    Smarto is offering a full-fledged trial of its system to all educational institutions who register before April 1st 2022. The duration of this free trial is 30 days. 
+    After 30 days, you will be reminded of the estimated costs per session based on your requirements and usage patterns.
+
 2.	How long does it take to conduct my first session?
-After you signup as an institute, you will have access to our *eMasters* control panel. 
-Entering details of your classes, instructors, informing them, and your students will take at least 24 hours. So, you can get started in 24 hours.
+
+    After you signup as an institute, you will have access to our *eMasters* control panel. 
+    Entering details of your classes, instructors, informing them, and your students will take at least 24 hours. So, you can get started in 24 hours.
 
 3.	Our teachers and students are not tech-savvy. Will it be difficult for them?
-Absolutely not, almost half of our customers are schools from low-key towns where technology is not highly penetrated. Having said that, basic computer literacy is necessary for the administrator to get started with our *eMasters* control panel.
-But it is very easy for teachers and students to get connected.
+
+    No, almost half of our customers are schools from tier-2/3 towns and cities where technology adoption is nascent. Having said that, basic computer literacy is necessary for the administrator to get started with our *eMasters* control panel.
+
+    But it is very easy for teachers and students to get connected.
 
 4.	Can you give us a discount ? We are a non-profit educational institution.
-Absolutely, please get in touch with our sales team.
+
+    Absolutely, please get in touch with our sales team.
 
 **NON-FUNCTIONAL FAQ:**
 
 1.	Is it necessary to save the whiteboard in a DB after a session is completed ?
-NO, it is not necessary because, a whiteboard/blackboard in classroom is erased and forgotten after a session is completed. So, it is unnecessary to save them in a database.
 
-2.	 What tech stack should be used?
-MERN Stack.
+    NO, it is not necessary because, a whiteboard/blackboard in classroom is erased and forgotten after a session is completed. So, it is unnecessary to save them in a database.
+
+2.	What tech stack should be used?
+
+    MERN Stack
 
 3.	How do we reduce load on our servers?
 
